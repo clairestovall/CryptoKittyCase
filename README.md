@@ -15,8 +15,8 @@ Use the following example and set your address. You can find your address at the
   <title>CryptoCase</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script type="text/javascript" src="https://cdn.rawgit.com/clairestovall/CryptoKittyCase/2c6037c4/script.js"></script>
-  <link rel="stylesheet" href="https://cdn.rawgit.com/clairestovall/CryptoKittyCase/2c6037c4/stylesheet.css">
+  <script type="text/javascript" src="https://cdn.rawgit.com/clairestovall/CryptoKittyCase/1.0.2/script.js"></script>
+  <link rel="stylesheet" href="https://cdn.rawgit.com/clairestovall/CryptoKittyCase/1.0.2/stylesheet.css">
 </head>
 <body>
   <div id="cryptokitties"></div>
