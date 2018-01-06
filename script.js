@@ -74,7 +74,3 @@
       });
     };
 }(jQuery));
-
-$(document).ready(function(){
-  $('#cryptokitties').cryptoCase('0x519870e6cce87c4933981e91164e675a8b5a5b61');
-});
