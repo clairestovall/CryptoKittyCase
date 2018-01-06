@@ -5,7 +5,7 @@ jQuery plugin to display your cryptokitties (https://www.cryptokitties.co).
 
 It will also display whether your cats are "fancy" or "exclusive," if appropriate. Due to API constraints, you can display up to 12 kitties at a time.
 
-Use the following example and set your address. You can find your address at the top of your profile page on the CryptoKitties site.:
+Use the following example and set your address. You can find your address at the top of your profile page on the CryptoKitties site:
 ```html
 <!DOCTYPE html>
 <html>
