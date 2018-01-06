@@ -3,6 +3,7 @@
       const URL = 'https://api.cryptokitties.co/kitties?owner_wallet_address='
           + address;
       const INDIVIDUAL_URL = 'https:\/\/www.cryptokitties.co\/kitty\/';
+      var location = this;
       const COLORS = new Object();
         COLORS['sizzurp'] = '#c1c1ea';
         COLORS['bubblegum'] = '#fcdede';
@@ -60,7 +61,7 @@
             j++;
           }
           cats += "</div></div>";
-          $("#cryptokitties").html(cats);
+          $(location).html(cats);
           for (i = 0; i < max; i++) {
             var change = "#" + i;
             $(change).css('background-color', newColors[i]);
