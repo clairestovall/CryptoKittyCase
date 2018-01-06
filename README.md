@@ -1,5 +1,5 @@
 # CryptoKittyCase
-JS widget to display your cryptokitties (https://www.cryptokitties.co).
+jQuery plugin to display your cryptokitties (https://www.cryptokitties.co).
 
 ![screenshot of CryptoKittyCase](screenshot.png)
 
