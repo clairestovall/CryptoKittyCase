@@ -1,7 +1,7 @@
 # CryptoKittyCase
 jQuery plugin to display your cryptokitties (https://www.cryptokitties.co).
 
-![screenshot of CryptoKittyCase](screenshot.png)
+<a class="jsbin-embed" href="https://jsbin.com/benutij/1/embed?html,output">JS Bin on jsbin.com</a><script src="https://static.jsbin.com/js/embed.min.js?4.1.1"></script>
 
 It will also display whether your cats are "fancy" or "exclusive," if appropriate. Due to API constraints, you can display up to 12 kitties at a time.
 
