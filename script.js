@@ -16,6 +16,7 @@
         COLORS['gold'] = '#faf4cf';
         COLORS['babypuke'] = '#eff1e0';
         COLORS['strawberry'] = '#efbaba';
+        COLORS['sapphire'] = '#a2c2eb';
       var newColors = new Object();
       var cats = "";
       $.ajax({
